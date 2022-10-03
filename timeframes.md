@@ -1,5 +1,7 @@
 ## Timeframes
 ### 16:00 - 16:05 Allow for people to get settled.
+#### (Slide 1)
+
 ### 16:05 - 16:10 Introduction + Disclaimers
 #### (Slides 2 & 3)
 
@@ -10,16 +12,16 @@
  - I/we don’t have all the answers.
  - Link to code of conduct.
 
-### 16:10 - 16:35 Data Hazards Intro + Case study + Clarifying questions
+### 16:10 - 16:30 Data Hazards Intro + Case study + Clarifying questions
 #### (Slides 3 - 8)
  - 10min: what are the data hazard labels? why?
  - 5min: case study presentation
  - 5min: clarifying questions
 
-### 16:35 - 16:45 Small group discussions
+### 16:30 - 16:45 Small group discussions
 #### (Slide 9)
  - Someone to take notes to report later.
- -
+ 
 ### 16:45 - 17:00 Collect answers, what data hazards apply to the case study?
 #### (Slide 10)
  - Bring it back to big group. What did people discuss? Feedback for case study.
