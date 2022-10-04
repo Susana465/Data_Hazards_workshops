@@ -13,7 +13,7 @@
  - Link to code of conduct.
 
 ### 16:10 - 16:30 Data Hazards Intro + Case study + Clarifying questions
-#### (Slides 3 - 8)
+#### (Slides 4 - 8)
  - 10min: what are the data hazard labels? why?
  - 5min: case study presentation
  - 5min: clarifying questions
@@ -23,14 +23,14 @@
  - Someone to take notes to report later.
  
 ### 16:45 - 17:00 Collect answers, what data hazards apply to the case study?
-#### (Slide 10)
+#### (Slide 11)
  - Bring it back to big group. What did people discuss? Feedback for case study.
 
 ### 17:00 - 17:05 case study presenter, what did you find useful/feedback?
-#### (Slide 10)
+#### (Slide 11)
 
 ### 17:05 - 17:20 Follow up discussion with specific questions/ looking at the broader picture.
-#### (Slide 11)
+#### (Slide 12)
  - Are these data hazards appropriate for systems biology computer modelling? 
  - Are there issues missing and/or modified?
  - How can we implement this into modelling? 
