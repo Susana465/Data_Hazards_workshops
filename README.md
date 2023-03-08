@@ -11,7 +11,6 @@ Or if you're not too comfortable with github, have a browse at the [website](htt
 ## (Hybrid) [DER symposium 2023](https://www.eventbrite.co.uk/e/in-person-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-516803953537).
 
 - timeline here [`timeframes_DER_symp.md`](timeframes_DER_symp.md)
-- rough script for the presentation here [`presentation_scritp_draft.md`](presentation_scritp_draft.md)
 - **slides** and edit using google docs [here](https://docs.google.com/presentation/d/150mgFuJxmEG4mQnDY2mRo5HvwebkRtdTvng5srCLHxg/edit?usp=sharing)
 
 ## (In person) [COMBINE conference 2022](https://co.mbine.org/events/).
