@@ -12,12 +12,14 @@ Or if you're not too comfortable with github, have a browse at the [website](htt
 
 - timeline here [`timeframes_DER_symp.md`](timeframes_DER_symp.md)
 - **slides** and edit using google docs [here](https://docs.google.com/presentation/d/150mgFuJxmEG4mQnDY2mRo5HvwebkRtdTvng5srCLHxg/edit?usp=sharing)
+- Co-facilitated with [Vanessa Hanschke](https://research-information.bris.ac.uk/en/persons/vanessa-a-hanschke)
 
 ## (In person) [COMBINE conference 2022](https://co.mbine.org/events/).
 
 - timeline here [`timeframes_COMBINE.md`](timeframes_COMBINE.md)
 - script for the presentation here [`presentation_scritp_COMBINE_2022.md`](presentation_scritp_COMBINE_2022.md)
 - **slides** and edit using google docs [here](https://docs.google.com/presentation/d/1OvVyGjqNVzxN0DznCxk9HeJF6e1aZeJ6sDcIuUvm0b8/edit#slide=id.g118dc3aa1dc_0_88)
+- Co-facilitated with [Melanie Stefan](http://melaniestefan.net/)
 
 These slides have been taken and modified from the [Data Hazards Website](https://datahazards.com/contents/materials/workshop/setup.html)
 
