@@ -27,7 +27,7 @@ These slides have been taken and modified from the [Data Hazards Website](https:
 
 Please feel free to re-use the material I provide here and credit myself as well as the Data Hazards group for creating the original template and materials.
 
-Feel free to contact me (sromangarcia@turing.ac.uk) if you would like to discuss anything else about this topic.
+Feel free to contact me (s1350728@ed.ac.uk) if you would like to discuss anything else about this topic.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
