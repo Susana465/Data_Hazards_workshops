@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use material from these workshops, please cite it as below."
 preferred-citation:
   type: data
-authors:
+  authors:
   - family-names: "Roman-Garcia"
     given-names: "Susana"
     orcid: "https://orcid.org/0009-0004-6967-7754"
