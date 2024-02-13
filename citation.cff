@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use material from these workshops, please cite it as below."
+authors:
+  - family-names: Roman-Garcia
+    given-names: Susana
+    orcid: https://orcid.org/0009-0004-6967-7754
+  - family-names: Stefan
+    given-names: Melanie
+    orcid: https://orcid.org/0000-0002-6086-7357
+- family-names: Stefan
+    given-names: Melanie
+    orcid: https://orcid.org/0000-0002-6086-7357
+- family-names: A Hanschke
+    given-names: Vanessa
+    https://orcid.org/0000-0003-3688-0372
+- family-names: Di Cara
+    given-names: Nina
+    https://orcid.org/0000-0002-6179-1067
+- family-names: R Zelenka
+    given-names: Natalie
+    https://orcid.org/0000-0002-1007-0286
+title: "Data Hazard Workshops"
+identifiers:
+- type: url 
+  value: "https://github.com/Susana465/Data_Hazards_workshops"
+date-released: 2022-09
